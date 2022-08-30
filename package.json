@@ -1,0 +1,16 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "A simple weather app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arghya bandyopadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "date-and-time": "^2.4.1",
+    "express": "^4.18.1"
+  }
+}
